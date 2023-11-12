@@ -41,7 +41,14 @@
 30.68, 39.879999999999995,  полностью, help собака root you broo. В любой непонятной ситуации подобной тем, что вы описали, необходимо
 39.879999999999995, 46.96,  обращаться в службу поддержки по этому адресу, ибо вам все равно не поможет ничего из того,
 47.2, 53.2,  что может оказаться в карманах ваших жилетов. Ну что же, до скорой встречи, Анатолий. Это были все
-53.2, 54.72,  технические вопросы на сегодня.  | 0.0, 10.76, Y así la siguiente categoría. A vamos a ir al banco. Eso es como? 10.76, 18.240000000000002, ¿Qué hacer, por ejemplo, si se trata de un problema de seguridad? 18.240000000000002, 23.04, ¿Qué hacer si ya no tengo acceso? 23.04, 30.68, ¿Por qué no puedo entrar en el sitio? 30.68, 39.879999999999995, En cualquier situación incomprensible como la que has descrito, es necesario. 39.879999999999995, 46.96, En cualquier caso, no hay nada que pueda ayudarle. 47.2, 53.2, Bueno, hasta pronto, Anatoli, eso fue todo. 53.2, 54.72, Las preguntas técnicas de hoy.  |
+53.2, 54.72,  технические вопросы на сегодня.  | 0.0, 10.76, Y así la siguiente categoría. A vamos a ir al banco. Eso es como?
+10.76, 18.240000000000002, ¿Qué hacer, por ejemplo, si se trata de un problema de seguridad?
+18.240000000000002, 23.04, ¿Qué hacer si ya no tengo acceso?
+23.04, 30.68, ¿Por qué no puedo entrar en el sitio?
+30.68, 39.879999999999995, En cualquier situación incomprensible como la que has descrito, es necesario.
+39.879999999999995, 46.96, En cualquier caso, no hay nada que pueda ayudarle.
+47.2, 53.2, Bueno, hasta pronto, Anatoli, eso fue todo.
+53.2, 54.72, Las preguntas técnicas de hoy. |
 
 
 ## <a name="startup">Запуск</a>
