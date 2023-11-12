@@ -24,10 +24,10 @@
 2) Разбиваем видео на суббтитры, суббтитры переводим, через xtts создаём отдельные аудиодорожки и накладываем их на полный переведенный аудиоряд с той же длиной, что и оригинальное видео. Затем Используя wav2lip совмещаем аудиоряд с видеоизображением.
 
 ### Функциональная модель решения 1
-<img width="600" height="1200" alt="func_scheme" src="https://github.com/TommyCalmman/2023-rutube-translate/blob/main/static-all/method1.png"> 
+<img width="600" height="1200" alt="func_scheme" src="https://github.com/TommyCalmman/2023-rutube-translate/blob/main/method1.png"> 
 
 ### Функциональная модель решения 2
-<img width="600" height="1200" alt="func_scheme" src="https://github.com/TommyCalmman/2023-rutube-translate/blob/main/static-all/method2.png"> 
+<img width="600" height="1200" alt="func_scheme" src="https://github.com/TommyCalmman/2023-rutube-translate/blob/main/method2.png"> 
 
 <br>
 <p>Пример обработки </p>
