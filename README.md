@@ -72,5 +72,5 @@ jupyter-notebook
 
 ## <a name="urls">Ссылки </a>
  
-- [ссылка на весы модели 1]()    
-- [ссылка на гугл 2](https://drive.google.com/drive/folders/1DeyO53LnkqDt6IY__3LsW0aSBtJSK3bx?usp=drive_link)    
+- [ссылка на яндекс диск]( https://disk.yandex.ru/d/yrb245h4AI5Tyw)    
+- [ссылка на гугл диск ](https://drive.google.com/drive/folders/1DeyO53LnkqDt6IY__3LsW0aSBtJSK3bx?usp=drive_link)    
